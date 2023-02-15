@@ -1,0 +1,84 @@
+h4{
+  color: green;
+}
+p.speech{
+  font-size: 15px;
+  color: black; 
+  font-family: 'Courier New', Courier, monospace;
+}
+p.direction{
+  font-size: 20px;
+  color: red; 
+  background-color: bisque;
+  font-family: 'Courier New', Courier, monospace;
+}
+p.direction:hover{
+  font-size: 20px;
+  color:red; 
+  background-color: azure;
+}
+.SCENE{
+  font-style: bold;
+  color: black;
+}
+.LUKA{
+  font-style: bold;
+  color: black;}
+.MRS.POPOV{
+  font-style: bold;
+  color: black;}
+
+table {
+  border: solid 3px red;
+  border-collapse: collapse;
+  padding: 10px;
+  margin: 50x;
+}
+
+  td, th {
+    border: solid 1px ;
+    text-align: center;
+    font-style: bold;
+    color: magenta;
+    height: 10px;
+    width: 10px;
+    align-items: center;
+  }  
+  tr:nth-child(even)
+  {
+      background-color: #e2e2e2;
+  }
+
+  h6:hover{
+    background-color: yellow;
+    border: solid 3px red;
+    box-shadow: 10px 10px 5px pink;
+  }
+    ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      background-color: hotpink;
+    }
+    
+    li {
+      float: left;
+    }
+    
+    li a {
+      display: block;
+      color: maroon;
+      font-style: bold;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+    }
+
+ img{
+    display: flow-root;
+    text-align: center;
+    background-color: violet;
+    width: 200px;
+    height: 200px;
+  }
