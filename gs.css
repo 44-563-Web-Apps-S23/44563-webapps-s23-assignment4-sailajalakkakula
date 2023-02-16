@@ -7,7 +7,7 @@ p.speech{
   font-family: 'Courier New', Courier, monospace;
 }
 p.direction{
-  font-size: 20px;
+  font-size: 15px;
   color: red; 
   background-color: bisque;
   font-family: 'Courier New', Courier, monospace;
@@ -19,11 +19,12 @@ p.direction:hover{
 }
 .SCENE{
   font-style: bold;
-  color: black;
+  color: magenta;
 }
 .LUKA{
   font-style: bold;
-  color: black;}
+  color: orangered;
+}
 .MRS.POPOV{
   font-style: bold;
   color: black;}
